@@ -4,7 +4,7 @@
 		module="dokimh$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190131142551"
+		publication="20190202221050"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

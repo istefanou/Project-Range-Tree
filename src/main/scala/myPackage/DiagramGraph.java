@@ -61,7 +61,7 @@ public class DiagramGraph extends JPanel {
                 }
 
                 // and for x axis
-                for (int i = 0; i < (items.length - 1); i++) {
+                for (int i = 0; i < (items.length - 1); i++) {//should be split into a smaller amount of intervals for huge numbers of data
                     int x0 = (i + 1) * (getWidth() - BORDER_GAP * 2) / (items.length - 1) + BORDER_GAP;
                     int x1 = x0;
                     int y0 = getHeight() - BORDER_GAP;

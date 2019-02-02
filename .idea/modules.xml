@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dokimh.iml" filepath="$PROJECT_DIR$/.idea/modules/Dokimh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project_range-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project_range-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-range-tree-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project-range-tree-build.iml" />
     </modules>
   </component>
 </project>
