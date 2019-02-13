@@ -18,25 +18,28 @@ Once the project is loaded press (ctrl+f9) to build the project. Finally run cla
 Step 1: Type in the delimiter and then press the button “Set delimiter”
 (There is help available in the top left of the window form)
 
-![](dimensions.png)
+![](step_1.png)
 
 Step 2 :  Load data from your input file (works for N dimensions)
 
-![](dimensions.png)
+![](step_2.png)
 
  Step 3 :After file is loaded the graph will be generated.
  
-![](dimensions.png)
+![](step_3.png)
 
 Step 4 : By clicking the query button this window will pop up for you to  execute queries 
  
- ![](dimensions.png)
+ ![](step_4.png)
+ 
+  ![](step_4_2.png)
+
  
 (You can view/hide the tool bar menu on the right by using the Tools button on the top left)
  
 Step 5 : Clicking dimensions will sort the results.
  
- ![](dimensions.png)
+ ![](step_5.png)
  
 The results will be opened in this window and will also be saved in a txt file with additional information like the date and the query.
 
