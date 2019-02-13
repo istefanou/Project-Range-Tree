@@ -13,27 +13,30 @@ Open IntelliJ and go at the bottom right of the window
 configure->plugins, type in the search bar Scala(v2018.3.5) and click install.(After the installation you need to restart IntelliJ)
 When IntelliJ is restarted  click open then find the path that you downloaded the file “Project_Range” and click ok.
 Once the project is loaded press (ctrl+f9) to build the project. Finally run class ‘Executable’.
+
+
 Step 1: Type in the delimiter and then press the button “Set delimiter”
 (There is help available in the top left of the window form)
- 
 
+![](dimensions.png)
 
 Step 2 :  Load data from your input file (works for N dimensions)
 
- 
+![](dimensions.png)
+
  Step 3 :After file is loaded the graph will be generated.
  
-
-
-
-
-
+![](dimensions.png)
 
 Step 4 : By clicking the query button this window will pop up for you to  execute queries 
+ 
+ ![](dimensions.png)
  
 (You can view/hide the tool bar menu on the right by using the Tools button on the top left)
  
 Step 5 : Clicking dimensions will sort the results.
+ 
+ ![](dimensions.png)
  
 The results will be opened in this window and will also be saved in a txt file with additional information like the date and the query.
 
