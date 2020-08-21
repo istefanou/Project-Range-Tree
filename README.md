@@ -43,6 +43,7 @@ Step 5 : Clicking dimensions will sort the results.
  
 The results will be opened in this window and will also be saved in a txt file with additional information like the date and the query.
 
+ ![](RangeTree explained.pdf)
 
 
 
